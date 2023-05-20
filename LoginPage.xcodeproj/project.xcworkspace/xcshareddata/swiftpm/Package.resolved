@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://github.com/Alamofire/Alamofire.git",
+        "state": {
+          "branch": "master",
+          "revision": "f1f7a06f40c6aadb4beb2a78f380f9938d574fa7",
+          "version": null
+        }
+      },
+      {
+        "package": "FMDB",
+        "repositoryURL": "https://github.com/ccgus/fmdb.git",
+        "state": {
+          "branch": "master",
+          "revision": "977dd81701047a19ab14646953e588f9075d61ac",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
